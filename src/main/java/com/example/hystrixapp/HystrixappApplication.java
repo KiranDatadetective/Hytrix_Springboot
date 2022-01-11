@@ -10,4 +10,5 @@ public class HystrixappApplication {
 		SpringApplication.run(HystrixappApplication.class, args);
 	}
 
+
 }
